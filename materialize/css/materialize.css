@@ -3386,7 +3386,7 @@ nav ul a span.badge {
 #profile{
     width: 100%;
     background-color: #fff;
-    height: 480px;
+    height: 490px;
 }
 
 .prof-container{
@@ -3400,7 +3400,7 @@ nav ul a span.badge {
 .cont-container{
     margin: auto;
     width: auto;
-    height: 480px;
+    height: 490px;
     padding: 20px 0 60px 0;
     text-align: center;
     color: white;
@@ -4061,7 +4061,7 @@ nav ul a span.badge {
 
 nav {
   color: #fff;
-  background-color: #312c32;
+  background-color: #fff;
   width: 100%;
   height: 150px;
   line-height: 56px;
@@ -4215,7 +4215,7 @@ nav ul li.active {
 nav ul a {
   transition: background-color .3s;
   font-size: 17px;
-  color: #ff9c5f;
+  color: #008080;
   display: block;
   padding: 0 15px;
   cursor: pointer;
@@ -4432,7 +4432,11 @@ p{
 
 .serv-container p{
     font-size: 100%;
-    font-weight: 300;
+    font-weight: 400;
+}
+
+.serv-container h4{
+    color: #ff711a;
 }
 
 .cont-container p{
